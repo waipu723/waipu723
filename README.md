@@ -1,4 +1,30 @@
+제가 만들고 싶은 것은 단순히 성능이 높은 기술이 아니라,
+
+> **좋은 기술을 실제 사람들이 쉽게 사용할 수 있게 만드는 프로그램**
+
+입니다.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
+
+![Seojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=waipu723&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waipu723&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-waipu723-181717?style=for-the-badge&logo=github)](https://github.com/waipu723)
+
+</div><div align="center">
 
 # 👋 Hi, I'm Seojun Lee
 
@@ -136,7 +162,34 @@ Machine Learning
 Desktop Applications
 Cross-platform Applications
 Software Engineering
+```
 
-cat README.md
 
 
+제가 만들고 싶은 것은 단순히 성능이 높은 기술이 아니라,
+
+> **좋은 기술을 실제 사람들이 쉽게 사용할 수 있게 만드는 프로그램**
+
+입니다.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Seojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=waipu723&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waipu723&layout=compact&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting 👋
+
+[![GitHub](https://img.shields.io/badge/GitHub-waipu723-181717?style=for-the-badge&logo=github)](https://github.com/waipu723)
+
+</div>
