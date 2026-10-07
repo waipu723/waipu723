@@ -1,30 +1,4 @@
-제가 만들고 싶은 것은 단순히 성능이 높은 기술이 아니라,
-
-> **좋은 기술을 실제 사람들이 쉽게 사용할 수 있게 만드는 프로그램**
-
-입니다.
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-
-![Seojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=waipu723&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=waipu723&layout=compact&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting 👋
-
-[![GitHub](https://img.shields.io/badge/GitHub-waipu723-181717?style=for-the-badge&logo=github)](https://github.com/waipu723)
-
-</div><div align="center">
 
 # 👋 Hi, I'm Seojun Lee
 
@@ -51,6 +25,32 @@ AI / Machine Learning부터 Desktop & App Development까지
 ---
 
 ## 🚀 Featured Projects
+
+### DesktopBuddy
+
+**캐릭터의 생활 행동과 할 일·일정·메모를 결합한 개인용 macOS 데스크톱 앱**
+
+<p>
+  <img src="https://raw.githubusercontent.com/waipu723/DesktopBuddy/main/Sources/DesktopBuddy/Resources/Lifestyle/canonical-standing.png" width="160" alt="DesktopBuddy standing">
+  <img src="https://raw.githubusercontent.com/waipu723/DesktopBuddy/main/Sources/DesktopBuddy/Resources/Lifestyle/seatedCoding-03.png" width="160" alt="DesktopBuddy coding">
+  <img src="https://raw.githubusercontent.com/waipu723/DesktopBuddy/main/Sources/DesktopBuddy/Resources/Lifestyle/seatedGaming-04.png" width="160" alt="DesktopBuddy gaming">
+</p>
+
+- 할 일, 월간 캘린더·전체 일정, 예약 알림, 빠른 메모
+- 서기·앉기·코딩·게임·수면을 연결하는 자율 생활 행동
+- AppKit 네이티브 알파 창의 투명 영역 클릭 통과 및 드래그 이동
+- 클릭·드래그·알림 시 행동 중단, 소품 정리와 상태 복구
+- 프레임 변경 시점에만 갱신하는 Idle / Sleep
+- 자동 테스트 **64개 통과**, 실제 macOS 입력·포커스·잠자기 복구 검증
+
+AI 도구를 활용해 이미지와 코드를 제작하고, 직접 시각 검토와 실제 사용 테스트를 반복했습니다.
+개인 사용과 포트폴리오 공개를 위한 프로젝트입니다.
+
+`Swift` `AppKit` `SwiftUI` `SwiftData` `Swift Package Manager`
+
+🔗 [View Repository](https://github.com/waipu723/DesktopBuddy) · [Portfolio](https://waipu723.github.io/portfolio/)
+
+---
 
 ### 🦊 Eevee Desktop
 
